@@ -826,11 +826,3 @@ async function run() {
 	}
 }
 run().catch(console.dir);
-
-app.get("/", (req, res) => {
-	res.send("Talkora running from Server..");
-});
-
-app.listen(port, () => {
-	console.log(`Talkora is running on port ${port}`);
-});
