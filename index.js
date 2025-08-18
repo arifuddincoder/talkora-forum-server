@@ -743,7 +743,6 @@ async function run() {
 		app.get("/popular-searches", async (req, res) => {
 			try {
 				const searches = await searchesCollection.find().sort({ votes: -1, created_at: -1 }).limit(3).toArray();
-
 				res.send(searches);
 			} catch (err) {
 				console.error("Search fetch error:", err);
@@ -760,7 +759,6 @@ async function run() {
 				}
 
 				comment.created_at = new Date();
-
 				const result = await commentsCollection.insertOne(comment);
 				res.send(result);
 			} catch (error) {
