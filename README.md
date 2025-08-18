@@ -129,11 +129,17 @@ STRIPE_SECRET_KEY=your_stripe_key
 
 - **Admin Email:** `rafiq.ahmed@mailinator.com`
 - **Admin Password:** `Pa$$w0rd!`
-- 🔗 **Live URL:** [https://b11a12-talkora.web.app](https://b11a12-talkora.web.app)
-- 🧾 **Client GitHub:** [https://github.com/arifuddincoder/talkora-forum-client](https://github.com/arifuddincoder/talkora-forum-client)
-- 🧾 **Server GitHub:** [https://github.com/arifuddincoder/talkora-forum-server](https://github.com/arifuddincoder/talkora-forum-server)
 
 ---
+
+## 🔗 Project Links
+
+- 🌐 **Live URL:** [https://b11a12-talkora.web.app](https://b11a12-talkora.web.app)  
+- 🧾 **Client GitHub:** [https://github.com/arifuddincoder/talkora-forum-client](https://github.com/arifuddincoder/talkora-forum-client)  
+- 🧾 **Server GitHub:** [https://github.com/arifuddincoder/talkora-forum-server](https://github.com/arifuddincoder/talkora-forum-server)  
+
+---
+
 
 ## 👨‍💻 Developer Info
 
