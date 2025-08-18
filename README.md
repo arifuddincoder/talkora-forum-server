@@ -125,10 +125,17 @@ STRIPE_SECRET_KEY=your_stripe_key
 
 ---
 
-## 📬 Admin Access Info
+## 👑 Admin Access
 
-- **Admin Email:** `rafiq.ahmed@mailinator.com`
-- **Admin Password:** `Pa$$w0rd!`
+- **Email:** `rafiq.ahmed@mailinator.com`  
+- **Password:** `Pa$$w0rd!`
+
+---
+
+## 👤 General User Access
+
+- **Email:** `david.kim@mailinator.com`  
+- **Password:** `Pa$$w0rd!`
 
 ---
 
