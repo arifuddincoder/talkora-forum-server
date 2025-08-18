@@ -302,6 +302,7 @@ async function run() {
 				res.status(500).send({ success: false, message: "Failed to update login time" });
 			}
 		});
+
 		app.get("/users/role/:email", verifyToken, async (req, res) => {
 			try {
 				const email = req.params.email.toLowerCase();
